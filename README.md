@@ -41,7 +41,7 @@ A collection of small HTML & CSS projects aimed at mastering layout, structure, 
 ---
 
 ## 📊 GitHub Activity
-<img src="https://github-readme-stats.vercel.app/api?username=sarahalnobi53-del&show_icons=true&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sarahalnobi&show_icons=true&hide_title=true" />
 
 ---
 
