@@ -1,5 +1,4 @@
 <!-- Profile Header -->
-<img src="https://raw.githubusercontent.com/Mokkapps/mokkapps/master/header.png" alt="GitHub Profile Header">
 
 ---
 
